@@ -1,0 +1,125 @@
+{
+   "NO_DATA": {
+      "message": "此插件不收集用户数据"
+   },
+   "extDescription": {
+      "message": "把你的自定义背景图片，Google™主页这个小扩展。"
+   },
+   "extName": {
+      "message": "自谷歌背景"
+   },
+   "long_description": {
+      "message": "厌倦了枯燥的白色背景上谷歌？这个扩展将让你选择任何谷歌的背景图片。只需上传图片，输入网址，或搜索500px的。再次使谷歌个人！"
+   },
+   "options_link": {
+      "message": "更改背景图片"
+   },
+   "options_title": {
+      "message": "自谷歌™背景选项"
+   },
+   "sec1_heading": {
+      "message": "1，添加你的图片！"
+   },
+   "sec1_search_button": {
+      "message": "搜索"
+   },
+   "sec1_search_placeholder": {
+      "message": "搜索500px的"
+   },
+   "sec1_search_title": {
+      "message": "500px的！"
+   },
+   "sec1_text": {
+      "message": "加入您的图片，下面使用一个方便的输入字段开始！"
+   },
+   "sec1_upload_button": {
+      "message": "上传图片"
+   },
+   "sec1_upload_placeholder": {
+      "message": "从你的电脑上传图片"
+   },
+   "sec1_upload_title": {
+      "message": "从您的计算机！"
+   },
+   "sec1_url_button": {
+      "message": "保存"
+   },
+   "sec1_url_placeholder": {
+      "message": "粘贴图片网址"
+   },
+   "sec1_url_title": {
+      "message": "从Web！"
+   },
+   "sec2_heading": {
+      "message": "2，选择你的图片！"
+   },
+   "sec2_none": {
+      "message": "无背景"
+   },
+   "sec2_rand": {
+      "message": "随机化图像"
+   },
+   "sec2_text": {
+      "message": "你想使用你的背景图像上单击，或选择\"随机化\"随便挑一个。"
+   },
+   "sec3_heading": {
+      "message": "3。个性化！"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "隐藏涂鸦图标"
+   },
+   "sec3_label_hide_footer": {
+      "message": "隐藏页脚"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "隐藏谷歌"
+   },
+   "sec3_label_hide_lang": {
+      "message": "隐藏的语言"
+   },
+   "sec3_label_hide_logo": {
+      "message": "隐藏谷歌徽标"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "隐藏\"幸运\"按钮"
+   },
+   "sec3_label_hide_promotion": {
+      "message": "隐藏推广"
+   },
+   "sec3_label_hide_search": {
+      "message": "隐藏\"搜索\"按钮"
+   },
+   "sec3_label_img_pos": {
+      "message": "图片位置"
+   },
+   "sec3_label_img_scale": {
+      "message": "图像缩放"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "隐形模式"
+   },
+   "sec3_text": {
+      "message": "有你可以做自定义您的Google主页，只需选择你的选择和乐趣！"
+   },
+   "sec4_donate": {
+      "message": "捐赠（贝宝）"
+   },
+   "sec4_heading": {
+      "message": "4。分享爱！"
+   },
+   "sec4_rate": {
+      "message": "速率扩展"
+   },
+   "sec4_text": {
+      "message": "有没有必要害羞，如果你爱这个就像我们做，让全世界都知道！去吧！"
+   },
+   "sec4_text2": {
+      "message": "请支持我的评级或捐赠项目。"
+   },
+   "sec5_heading": {
+      "message": "最新消息"
+   },
+   "show_doodle": {
+      "message": "显示涂鸦"
+   }
+}

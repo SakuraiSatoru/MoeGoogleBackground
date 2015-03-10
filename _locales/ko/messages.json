@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "이 확장프로그램이 당신의 이미지로 Google™ 홈페이지를 꾸밀 수 있게 도와줍니다."
+   },
+   "extName": {
+      "message": "나만의 Google™ 배경화면"
+   },
+   "long_description": {
+      "message": "매일 만나는 하얀색 구글 배경화면, 이젠 좀 질리셨나요? 이 확장프로그램은 이미지를 업로드 하거나, 이미지 URL을 입력하여 당신만의 Google 홈페이지를 만들 수 있도록 도와줍니다. 나만의 Google을 만드실 준비 되셨나요?"
+   },
+   "no_data": {
+      "message": "이 확장프로그램은 어떤 개인정보도 수집하지 않습니다."
+   },
+   "options_link": {
+      "message": "배경화면 바꾸기"
+   },
+   "options_title": {
+      "message": "나만의 Google™ 배경화면 설정"
+   },
+   "sec1_heading": {
+      "message": "1. 이미지를 추가하세요!"
+   },
+   "sec1_search_button": {
+      "message": "검색"
+   },
+   "sec1_search_placeholder": {
+      "message": "500px 검색"
+   },
+   "sec1_search_title": {
+      "message": "500px에서!"
+   },
+   "sec1_text": {
+      "message": "여러 가지 방법으로 당신이 원하는 이미지를 추가해 보세요!"
+   },
+   "sec1_upload_button": {
+      "message": "업로드"
+   },
+   "sec1_upload_placeholder": {
+      "message": "내 컴퓨터에서 이미지 업로드"
+   },
+   "sec1_upload_title": {
+      "message": "내 컴퓨터에서!"
+   },
+   "sec1_url_button": {
+      "message": "저장"
+   },
+   "sec1_url_placeholder": {
+      "message": "이미지 URL 붙여넣기"
+   },
+   "sec1_url_title": {
+      "message": "인터넷에서!"
+   },
+   "sec2_heading": {
+      "message": "2. 이미지를 선택하세요!"
+   },
+   "sec2_none": {
+      "message": "배경화면 없음"
+   },
+   "sec2_rand": {
+      "message": "무작위로"
+   },
+   "sec2_text": {
+      "message": "배경화면으로 사용하실 사진을 클릭하시거나, \"무작위로\" 나오도록 설정하세요."
+   },
+   "sec3_heading": {
+      "message": "3. 마음대로 꾸미세요!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "두들 아이콘 숨기기"
+   },
+   "sec3_label_hide_footer": {
+      "message": "하단 숨기기"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Google+ 숨기기"
+   },
+   "sec3_label_hide_lang": {
+      "message": "언어 설정 숨기기"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Google 로고 숨기기"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "\"Lucky\" 버튼 숨기기"
+   },
+   "sec3_label_hide_promotion": {
+      "message": "프로모션 숨기기"
+   },
+   "sec3_label_hide_search": {
+      "message": "\"검색\" 버튼 숨기기"
+   },
+   "sec3_label_img_pos": {
+      "message": "이미지 위치"
+   },
+   "sec3_label_img_scale": {
+      "message": "이미지 크기"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "스텔스 모드"
+   },
+   "sec3_text": {
+      "message": "구글 홈페이지를 꾸밀 수 있는 다양한 옵션이 준비되어 있답니다. 한번 시험해보세요^^"
+   },
+   "sec4_donate": {
+      "message": "기부하기 (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. 좋은건 널리 알려요!"
+   },
+   "sec4_rate": {
+      "message": "평가하기"
+   },
+   "sec4_text": {
+      "message": "부끄러워할 필요 없어요! 이 프로그램이 맘에 드신다면 친구들에게도 알려주세요."
+   },
+   "sec4_text2": {
+      "message": "이 앱을 Google 웹 스토어에서 평가하시거나 기부하셔서 이 프로젝트를 도와주세요."
+   },
+   "sec5_heading": {
+      "message": "최신 소식"
+   },
+   "show_doodle": {
+      "message": "Doodle 보여주기"
+   }
+}

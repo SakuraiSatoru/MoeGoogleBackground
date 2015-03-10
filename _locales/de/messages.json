@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Mit dieser Erweiterung bringst du das benutzerdefinierte Hintergrundbild zur Google™-Starteite zurück."
+   },
+   "extName": {
+      "message": "Custom Google™ Background"
+   },
+   "long_description": {
+      "message": "Genug vom langweilig weißen Hintergrund auf Google? Diese Erweiterung erlaubt es dir, jegliches Bild als Hintergrund zu wählen. Lade einfach ein Bild hoch, verlinke ein Bild per URL, oder durchsuche das Foto-Netzwerk 500px. Mach deine Google-Erfahrung wieder persönlich!"
+   },
+   "no_data": {
+      "message": "Diese Erweiterung sammelt keine Nutzerdaten."
+   },
+   "options_link": {
+      "message": "Hintergrundbild ändern"
+   },
+   "options_title": {
+      "message": "Benutzerdefinierte Einstellungen für Custom Google™ Background"
+   },
+   "sec1_heading": {
+      "message": "1. Füge deine Bilder hinzu!"
+   },
+   "sec1_search_button": {
+      "message": "Suchen"
+   },
+   "sec1_search_placeholder": {
+      "message": "Durchsuche 500px"
+   },
+   "sec1_search_title": {
+      "message": "Von 500px!"
+   },
+   "sec1_text": {
+      "message": "Füge zunächst deine Bilder mithilfe der praktischen Eingabefelder unten hinzu!"
+   },
+   "sec1_upload_button": {
+      "message": "Hochladen!"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Lade ein Bild von deinem Computer hoch."
+   },
+   "sec1_upload_title": {
+      "message": "Durchsuche deinen Computer!"
+   },
+   "sec1_url_button": {
+      "message": "Speichern"
+   },
+   "sec1_url_placeholder": {
+      "message": "Bild-URL einfügen"
+   },
+   "sec1_url_title": {
+      "message": "Aus dem Internet!"
+   },
+   "sec2_heading": {
+      "message": "2. Wähle deine Bilder aus!"
+   },
+   "sec2_none": {
+      "message": "Kein Hintergrundbild"
+   },
+   "sec2_rand": {
+      "message": "Zufälliges Hintergrundbild"
+   },
+   "sec2_text": {
+      "message": "Klicke auf das Bild, das du gerne als deinen Hintergrund nutzen möchtest, oder wähle \"Zufällig\", um ein zufällig ausgewähltes Bild zu nutzen."
+   },
+   "sec3_heading": {
+      "message": "3. Personalisiere deine Auswahl!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Google-Doodle ausblenden"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Fußzeile ausblenden"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Google+ ausblenden"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Sprachauswahl ausblenden"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Google-Logo ausblenden"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "\"Auf gut Glück!\"-Button ausblenden"
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Werbung ausblenden"
+   },
+   "sec3_label_hide_search": {
+      "message": "\"Suchen\"-Button ausblenden"
+   },
+   "sec3_label_img_pos": {
+      "message": "Bild-Ausrichtung"
+   },
+   "sec3_label_img_scale": {
+      "message": "Bild-Skalierung"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Inkognito-Modus"
+   },
+   "sec3_text": {
+      "message": "Es gibt viele Möglichkeiten, deine Google-Startseite zu personalisieren. Wähle einfach deine gewünschten Optionen aus. Viel Spaß!"
+   },
+   "sec4_donate": {
+      "message": "Spenden (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Teile die Erfahrung!"
+   },
+   "sec4_rate": {
+      "message": "Erweiterung bewerten"
+   },
+   "sec4_text": {
+      "message": "Kein Grund, schüchtern zu sein! Wenn du diese Erweiterung so sehr magst wie wir, lass es die Leute wissen! Nur zu!"
+   },
+   "sec4_text2": {
+      "message": "Bitte unterstütze meine Projekte durch Bewertungen oder Spenden."
+   },
+   "sec5_heading": {
+      "message": "Neuigkeiten"
+   },
+   "show_doodle": {
+      "message": "Google-Doodle zeigen"
+   }
+}

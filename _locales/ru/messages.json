@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Поставьте свои обои вместо простой страницы поиска от Google с этим маленьким расширением."
+   },
+   "extName": {
+      "message": "Custom Google™ Background"
+   },
+   "long_description": {
+      "message": "Устали от простого белого экрана Google? Это расширение поможет вам поставить любую фоновую картинку вместо белого экрана поиска Google. Просто загрузите картинку, вставьте URL или найдите картинкуна сайте 500px прямо здесь. Сделайте поиск в Google персональным!"
+   },
+   "no_data": {
+      "message": "Это расширение не собирает пользовательскую информацию."
+   },
+   "options_link": {
+      "message": "Сменить фон"
+   },
+   "options_title": {
+      "message": "Custom Google™ Background Настройки"
+   },
+   "sec1_heading": {
+      "message": "1. Добавьте свои изображения!"
+   },
+   "sec1_search_button": {
+      "message": "Поиск"
+   },
+   "sec1_search_placeholder": {
+      "message": "Искать на 500px"
+   },
+   "sec1_search_title": {
+      "message": "С 500px!"
+   },
+   "sec1_text": {
+      "message": "Начните с добавления своих изображений, используя один из нижеперечисленных способов!"
+   },
+   "sec1_upload_button": {
+      "message": "Загрузить"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Загрузите изображение с вашего компьютера"
+   },
+   "sec1_upload_title": {
+      "message": "С вашего компьютера!"
+   },
+   "sec1_url_button": {
+      "message": "Сохранить"
+   },
+   "sec1_url_placeholder": {
+      "message": "Вставить ссылку"
+   },
+   "sec1_url_title": {
+      "message": "Из интернета!"
+   },
+   "sec2_heading": {
+      "message": "2. Выберите свои изображения!"
+   },
+   "sec2_none": {
+      "message": "Без фона"
+   },
+   "sec2_rand": {
+      "message": "Выбрать случайно"
+   },
+   "sec2_text": {
+      "message": "Кликните на изображение, которое вы хотите использовать как фон или выберите \"Случайную\" чтобы каждый раз выбирать случайную картинку."
+   },
+   "sec3_heading": {
+      "message": "3. Персонализуй!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Спрятать Иконку Дудла"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Спрятать Шапку"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Спрятать Google+"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Спрятать Языки"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Спрятать Лого Google"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "Спрятать Кнопку \"Мне повезёт\""
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Спрятать Оповещения"
+   },
+   "sec3_label_hide_search": {
+      "message": "Спрятать Кнопку \"Поиск\""
+   },
+   "sec3_label_img_pos": {
+      "message": "Место Изображения"
+   },
+   "sec3_label_img_scale": {
+      "message": "Масштаб Изображения"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Режим Хитростей"
+   },
+   "sec3_text": {
+      "message": "Есть несколько возможностей, которыми вы можете изменить домашнюю страницу Google. Просто выберите свои настройки и веселитесь!"
+   },
+   "sec4_donate": {
+      "message": "Пожертвовать (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Поделись любовью!"
+   },
+   "sec4_rate": {
+      "message": "Оценить Расширение"
+   },
+   "sec4_text": {
+      "message": "Не надо стесняться! Если вам нравится то, что мы сделали - пусть мир узнает об этом! Давай!"
+   },
+   "sec4_text2": {
+      "message": "Пожалуйста, поддержите мои проекты оценкой или обновлением до полной версии."
+   },
+   "sec5_heading": {
+      "message": "Последние новости"
+   },
+   "show_doodle": {
+      "message": "Показывать дудл"
+   }
+}

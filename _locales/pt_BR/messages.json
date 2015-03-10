@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Deixe o Google™ com a sua cara com esta pequena extensão."
+   },
+   "extName": {
+      "message": "Custom Google™ Background"
+   },
+   "long_description": {
+      "message": "Cansado do plano de tela branco e sem graça do Google?  Com esta extensão, você vai poder usar qualquer foto.  Simplesmente envie uma foto, coloque um endereço URL, ou pesquise 500px.  Customize o Google novamente!"
+   },
+   "no_data": {
+      "message": "Esta extensão não coleta dados de usuários."
+   },
+   "options_link": {
+      "message": "Mudar plano de fundo"
+   },
+   "options_title": {
+      "message": "Opções do Custom Google™ Background"
+   },
+   "sec1_heading": {
+      "message": "1. Adicione suas imagens!"
+   },
+   "sec1_search_button": {
+      "message": "Pesquisar"
+   },
+   "sec1_search_placeholder": {
+      "message": "Pesquisar no 500px"
+   },
+   "sec1_search_title": {
+      "message": "Do 500px!"
+   },
+   "sec1_text": {
+      "message": "Comece adicionando imagens usando um dos campos abaixo!"
+   },
+   "sec1_upload_button": {
+      "message": "Enviar"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Enviar imagem do computador"
+   },
+   "sec1_upload_title": {
+      "message": "De seu computador!"
+   },
+   "sec1_url_button": {
+      "message": "Salvar"
+   },
+   "sec1_url_placeholder": {
+      "message": "Colar URL de imagem"
+   },
+   "sec1_url_title": {
+      "message": "Da web!"
+   },
+   "sec2_heading": {
+      "message": "2. Selecione suas Imagens!"
+   },
+   "sec2_none": {
+      "message": "Sem plano de fundo"
+   },
+   "sec2_rand": {
+      "message": "Randomizar imagens"
+   },
+   "sec2_text": {
+      "message": "Clique na imagem que você quer usar no plano de fundo, ou selecione \"Randomizar\" para usar uma aleatória."
+   },
+   "sec3_heading": {
+      "message": "3. Personalize!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Esconder Ícone de Doodle"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Esconder rodapé"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Esconder Google+"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Esconder Idiomas"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Esconder Logo do Google"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "Esconder Botão \"Estou com Sorte\""
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Esconder promoção"
+   },
+   "sec3_label_hide_search": {
+      "message": "Esconder Botão \"Pesquisar\""
+   },
+   "sec3_label_img_pos": {
+      "message": " Posição da Imagem"
+   },
+   "sec3_label_img_scale": {
+      "message": "Escala da Imagem"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Modo Stealth"
+   },
+   "sec3_text": {
+      "message": "Há várias coisas que você pode fazer para customizar sua homepage do Google. Escolha suas opções e divirta-se!"
+   },
+   "sec4_donate": {
+      "message": "Doar (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Compartilhe!"
+   },
+   "sec4_rate": {
+      "message": "Avaliar Extensão"
+   },
+   "sec4_text": {
+      "message": "Não há porque ficar tímido! Se você gosta disto tanto quanto nós, deixe o mundo saber! Vamos!"
+   },
+   "sec4_text2": {
+      "message": "Por favor, suporte meus projetos ao avaliar ou doar."
+   },
+   "sec5_heading": {
+      "message": "Últimas notícias"
+   },
+   "show_doodle": {
+      "message": "Mostrar Doodle"
+   }
+}

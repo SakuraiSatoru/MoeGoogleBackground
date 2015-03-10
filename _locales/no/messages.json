@@ -1,0 +1,135 @@
+﻿{ 
+    "extName": { 
+        "message": "Personlig Google™ bakgrunn"
+    }, 
+    "extDescription": { 
+        "message": "Ta med dine personlige bakgrunnsbilder tilbake til Google™ hjemmeside med denne lille utvidelsen."
+    }, 
+	"long_description": {
+		"message": "Lei av den kjedelige hvite bakgrunnen på Google sin søkeside? Denne utvidelsen vil la deg benytte hvilket som helst bilde til bakgrunn på siden. Bare last opp ett bilde, legg inn en link eller søk gjennom 500px. Gjør Google personlig igjen!"
+	},
+	"no_data": {
+		"message": "Denne utvidelsen samler ikke inn brukerinformasjon"
+	},
+    "options_link": { 
+        "message": "Forandre bakgrunns bilde"
+    }, 
+    "show_doodle": { 
+        "message": "Vis Doodle"
+    }, 
+    "options_title": { 
+        "message": "Personlig Google ™ Bakgrunnsalternativer"
+    }, 
+      
+    "sec1_heading": { 
+        "message": "1. Legg til bildene dine!"
+    }, 
+    "sec1_text": { 
+        "message": "Kom i gang ved å legge til dine bilder ved å benytte en av de hjelpsomme feltene under!"
+    }, 
+    "sec1_upload_title": { 
+        "message": "Fra din pc!"
+    }, 
+    "sec1_upload_placeholder": { 
+        "message": "Last opp bilde fra din pc"
+    }, 
+    "sec1_upload_button": { 
+        "message": "Last opp"
+    }, 
+      
+    "sec1_url_title": { 
+        "message": "Fra internett!"
+    }, 
+    "sec1_url_placeholder": { 
+        "message": "Lim inn bilde lenke"
+    }, 
+    "sec1_url_button": { 
+        "message": "Lagre"
+    }, 
+      
+    "sec1_search_title": { 
+        "message": "Fra 500px!"
+    }, 
+    "sec1_search_placeholder": { 
+        "message": "Søk 500px"
+    }, 
+    "sec1_search_button": { 
+        "message": "Søk"
+    }, 
+      
+      
+    "sec2_heading": { 
+        "message": "2. Velg ditt bilde!"
+    }, 
+    "sec2_text": { 
+        "message": "Klikk på bildet du ønsker å benytte som bakgrunn, eller velg \"Randomise\" for å velge ett tilfeldig."
+    }, 
+    "sec2_rand": { 
+        "message": "Randomiser bilder"
+    }, 
+    "sec2_none": { 
+        "message": "Ingen bakgrunn"
+    }, 
+      
+      
+    "sec3_heading": { 
+        "message": "3. Gjør det personlig!"
+    }, 
+    "sec3_text": { 
+        "message": "Det er mye du kan gjøre for å tilpasse din Google hjemmeside. Velg dine innstillinger og ha det gøy!"
+    }, 
+      
+    "sec3_label_hide_logo": { 
+        "message": "Skjul Google Logo"
+    }, 
+    "sec3_label_hide_search": { 
+        "message": "Skjul \"Search\" knapp"
+    }, 
+    "sec3_label_hide_lucky": { 
+        "message": "Skjul \"Lucky\" knapp"
+    }, 
+    "sec3_label_hide_footer": { 
+        "message": "Skjul Footer"
+    }, 
+    "sec3_label_hide_promotion": { 
+        "message": "Skjul Reklame"
+    }, 
+    "sec3_label_hide_lang": { 
+        "message": "Skjul Språk"
+    }, 
+    "sec3_label_hide_gplus": { 
+        "message": "Skjul Google+"
+    }, 
+    "sec3_label_hide_doodle": { 
+        "message": "Skjul Doodle Ikon"
+    }, 
+    "sec3_label_stealth_stealth": { 
+        "message": "Usynlig Visning"
+    }, 
+    "sec3_label_img_scale": { 
+        "message": "Bilde Skalering"
+    }, 
+    "sec3_label_img_pos": { 
+        "message": "Bilde Posisjon"
+    }, 
+      
+    "sec4_heading": { 
+        "message": "4. Del gleden!"
+    }, 
+    "sec4_text": { 
+        "message": "Det er ingen hensikt i å holde dette for deg selv! Om du liker dette like godt som oss, del det med verden! Kjør på!"
+    }, 
+    "sec4_text2": { 
+        "message": "Vi setter stor pris på om du tar deg tid til å støtte dette prosjektet, via vurdering eller en donasjon."
+    }, 
+    "sec4_rate": { 
+        "message": "Vurder Utvidelse"
+    }, 
+    "sec4_donate": { 
+        "message": "Donere (PayPal)"
+    }, 
+  
+    "sec5_heading": { 
+        "message": "Siste nytt"
+    } 
+}

@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Vratite vaše personalizovane slike na Google™ početnu stranu sa ovim malim dodatkom."
+   },
+   "extName": {
+      "message": "Personalizovane Google™ pozadine"
+   },
+   "long_description": {
+      "message": "Umorni ste od dosadne bele pozadine na Google-u?  Ovaj dodatak će vam dozvoliti da izaberete bilo koju sliku za pozadinu na Google-u.  Jednostavno uploadujte sliku, unesite URL, ili pretražite 500px.  Napravite Google vašim opet!"
+   },
+   "no_data": {
+      "message": "Ovaj dodatak ne skuplja korisničke podatke"
+   },
+   "options_link": {
+      "message": "Promenite pozadinu"
+   },
+   "options_title": {
+      "message": "podešavanja personalizovanih Google™ pozadina"
+   },
+   "sec1_heading": {
+      "message": "1. Dodajte vašu sliku!"
+   },
+   "sec1_search_button": {
+      "message": "Pretražite"
+   },
+   "sec1_search_placeholder": {
+      "message": "Pretražite 500px"
+   },
+   "sec1_search_title": {
+      "message": "Sa 500px!"
+   },
+   "sec1_text": {
+      "message": "Počnite dodavanjem vaših slika koristeći jedno od pomoćnih polja ispod!"
+   },
+   "sec1_upload_button": {
+      "message": "Ubacite"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Ubacite sliku iz vašeg kompjutera"
+   },
+   "sec1_upload_title": {
+      "message": "Iz vašeg kompjutera!"
+   },
+   "sec1_url_button": {
+      "message": "Sačuvajte"
+   },
+   "sec1_url_placeholder": {
+      "message": "Kopirajte URL od slike"
+   },
+   "sec1_url_title": {
+      "message": "Sa interneta!"
+   },
+   "sec2_heading": {
+      "message": "2. Obeležite vaše slike!"
+   },
+   "sec2_none": {
+      "message": "Bez pozadine"
+   },
+   "sec2_rand": {
+      "message": "Slučajne slike"
+   },
+   "sec2_text": {
+      "message": "Kliknite na sliku koju želite da koristite kao pozadinu, ili obeležite \"Slučajno\" da odaberete jednu slučajno."
+   },
+   "sec3_heading": {
+      "message": "3. Prilagodite vama!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Sakrijte škrabotina ikonu"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Sakrijte Footer"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Sakrijte Google+"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Sakrijte jezike"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Sakrijte Google Logo"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "Sakrijte \"Srećno\" dugme"
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Sakrijte promocije"
+   },
+   "sec3_label_hide_search": {
+      "message": "Sakrijte \"Pretraga\" dugme"
+   },
+   "sec3_label_img_pos": {
+      "message": "Pozicija slike"
+   },
+   "sec3_label_img_scale": {
+      "message": "Skala slika"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Potajan režim"
+   },
+   "sec3_text": {
+      "message": "Ovde ima dodataka koje možete iskoristiti da personalizujete Google početnu stranu. Odaberite podešavanja i zabavite se!"
+   },
+   "sec4_donate": {
+      "message": "Donirajte (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Podelite ljubav!"
+   },
+   "sec4_rate": {
+      "message": "Ocenite dodatak"
+   },
+   "sec4_text": {
+      "message": "Nema potreba da budete stidljivi! ako volite ovo koliko i mi, obavestite svet! Samo napred!"
+   },
+   "sec4_text2": {
+      "message": "Molim vas podržite moj projekat ocenjivanjem ili doniranjem."
+   },
+   "sec5_heading": {
+      "message": "Najnovije vesti"
+   },
+   "show_doodle": {
+      "message": "Pokaži škrabotinu"
+   }
+}

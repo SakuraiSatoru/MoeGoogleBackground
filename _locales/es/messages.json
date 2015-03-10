@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Usa un fondo personalizado para la página principal de Google™ gracias a esta pequeña extensión."
+   },
+   "extName": {
+      "message": "Fondo personalizado de Google™"
+   },
+   "long_description": {
+      "message": "¿Cansado del aburrido fondo blanco de Google™? Esta extensión te permitirá elegir cualquier imagen como fondo de Google. Simplemente sube una imagen, introduce una URL o busca en 500px. ¡Haz Google personal otra vez!"
+   },
+   "no_data": {
+      "message": "Este plugin no recolecta datos del usuario."
+   },
+   "options_link": {
+      "message": "Cambiar imagen de fondo"
+   },
+   "options_title": {
+      "message": "Opciones de Custom Google™ Background"
+   },
+   "sec1_heading": {
+      "message": "1. Añade tus imágenes."
+   },
+   "sec1_search_button": {
+      "message": "Buscar"
+   },
+   "sec1_search_placeholder": {
+      "message": "Buscar en 500px"
+   },
+   "sec1_search_title": {
+      "message": "¡Desde 500px!"
+   },
+   "sec1_text": {
+      "message": "Comienza añadiendo tus imágenes utilizando uno de los campos de aquí abajo."
+   },
+   "sec1_upload_button": {
+      "message": "Subir"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Sube una imagen desde tu ordenador"
+   },
+   "sec1_upload_title": {
+      "message": "¡Desde tu ordenador!"
+   },
+   "sec1_url_button": {
+      "message": "Guardar"
+   },
+   "sec1_url_placeholder": {
+      "message": "Pegar URL de imagen"
+   },
+   "sec1_url_title": {
+      "message": "¡Desde la web!"
+   },
+   "sec2_heading": {
+      "message": "2. ¡Selecciona tus imágenes!"
+   },
+   "sec2_none": {
+      "message": "Sin fondo"
+   },
+   "sec2_rand": {
+      "message": "Imagen aleatoria"
+   },
+   "sec2_text": {
+      "message": "Haz clic en la imagen que deseas usar como fondo, o selecciona \"Aleatoria\" para elegir una aleatoriamente"
+   },
+   "sec3_heading": {
+      "message": "3. ¡Personalízalo!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Ocultar icono de Doodle"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Ocultar pie de página"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Ocultar Google+"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Ocultar idiomas"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Ocultar logo de Google"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "Ocultar el botón de \"Voy a tener suerte\""
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Ocultar promoción"
+   },
+   "sec3_label_hide_search": {
+      "message": "Ocultar el botón de \"Buscar\""
+   },
+   "sec3_label_img_pos": {
+      "message": "Posición de la imagen"
+   },
+   "sec3_label_img_scale": {
+      "message": "Escala de la imagen"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Modo sigilo"
+   },
+   "sec3_text": {
+      "message": "Hay muchas cosas que puedes hacer para personalizar tu página de inicio de Google. ¡Simplemente elige tus opciones y disfruta!"
+   },
+   "sec4_donate": {
+      "message": "Donar (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. ¡Comparte tu amor!"
+   },
+   "sec4_rate": {
+      "message": "Valorar extensión"
+   },
+   "sec4_text": {
+      "message": "¡No seas tímido! ¡Si te encanta esto tanto como a mí, deja que el mundo lo sepa! ¡Adelante!"
+   },
+   "sec4_text2": {
+      "message": "Por favor, apoya mis proyectos valorandolos o donando."
+   },
+   "sec5_heading": {
+      "message": "Últimas noticias"
+   },
+   "show_doodle": {
+      "message": "Ver Doodle"
+   }
+}

@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Scegli il tuo sfondo personalizzato per la homepage di Google™ con questa piccola estensione."
+   },
+   "extName": {
+      "message": "Custom Google™ Background"
+   },
+   "long_description": {
+      "message": "Annoiato dallo sfondo bianco di Google?  Questa estensione ti permetterà di scegliere qualsiasi foto come sfondo di Google.  Basta caricarla dal PC, inserire un URL, o cercare in 500px.  Personalizza di nuovo Google!"
+   },
+   "no_data": {
+      "message": "Questa estensione non raccoglie informazioni dell'utente"
+   },
+   "options_link": {
+      "message": "Cambia immagine di sfondo"
+   },
+   "options_title": {
+      "message": "Opzioni personalizzate per lo sfondo di Google™"
+   },
+   "sec1_heading": {
+      "message": "1. Aggiungi le tue immagini!"
+   },
+   "sec1_search_button": {
+      "message": "Cerca"
+   },
+   "sec1_search_placeholder": {
+      "message": "Cerca in 500px"
+   },
+   "sec1_search_title": {
+      "message": "Da 500px!"
+   },
+   "sec1_text": {
+      "message": "Comincia aggiungendo le tue immagini usando uno dei comodi metodi di input qui sotto!"
+   },
+   "sec1_upload_button": {
+      "message": "Carica"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Carica immagine dal tuo computer"
+   },
+   "sec1_upload_title": {
+      "message": "Dal tuo computer!"
+   },
+   "sec1_url_button": {
+      "message": "Salva"
+   },
+   "sec1_url_placeholder": {
+      "message": "Incolla URL immagine"
+   },
+   "sec1_url_title": {
+      "message": "Dal web!"
+   },
+   "sec2_heading": {
+      "message": "2. Scegli le tue Immagini!"
+   },
+   "sec2_none": {
+      "message": "Nessuno Sfondo"
+   },
+   "sec2_rand": {
+      "message": "Randomizza immagini"
+   },
+   "sec2_text": {
+      "message": "Clicca sull'immagine che vorresti usare come sfondo, or scegli \"Randomizza\" per sceglierne una a caso."
+   },
+   "sec3_heading": {
+      "message": "3. Personalizzalo!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Nascondi l'icona Doodle"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Nascondi Footer"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Nascondi Google+"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Nascondi Lingue"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Nascondi il logo Google"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "Nascondi il tasto \"Mi sento fortunato\""
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Nascondi Pubblicità"
+   },
+   "sec3_label_hide_search": {
+      "message": "Nascondi il tasto \"Cerca\""
+   },
+   "sec3_label_img_pos": {
+      "message": "Posizione Immagine"
+   },
+   "sec3_label_img_scale": {
+      "message": "Risoluzione Immagine"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Modalità Stealth"
+   },
+   "sec3_text": {
+      "message": "C'è tantissimo che puoi fare per personalizzare la tua homepage Google. Scegli qualche opzione e divertiti!"
+   },
+   "sec4_donate": {
+      "message": "Dona (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Share The Love!"
+   },
+   "sec4_rate": {
+      "message": "Valuta estensione"
+   },
+   "sec4_text": {
+      "message": "Non c'è bisogno di essere timidi! Se ti piace quanto piace a noi, fallo sapere al mondo! Dai!"
+   },
+   "sec4_text2": {
+      "message": "Per favore supporta i miei lavori facendo donazioni o votandoli."
+   },
+   "sec5_heading": {
+      "message": "Notizie più recenti"
+   },
+   "show_doodle": {
+      "message": "Mostra i Doodle"
+   }
+}

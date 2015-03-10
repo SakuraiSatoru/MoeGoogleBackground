@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Prinesite svojo po meri sliko ozadja nazaj na Google™ domačo stran s to majhno razširitvijo."
+   },
+   "extName": {
+      "message": "Google™ Ozadje po Meri"
+   },
+   "long_description": {
+      "message": "Ste naveličani dolgočasnega belega ozadja na Googlu? Ta razširitev vam omogoča lastno izbiro katerekoli slike za ozadje Googla. Enostavno naložite sliko, vnesite URL, ali pa iščite po 500px. Naredite Google znova osebni!"
+   },
+   "no_data": {
+      "message": "Ta razširitev ne zbira uporabniških podatkov"
+   },
+   "options_link": {
+      "message": "Spremeni sliko ozadja"
+   },
+   "options_title": {
+      "message": "Nastavitve Google™ Ozadja po Meri"
+   },
+   "sec1_heading": {
+      "message": "1. Dodaj Svoje Slike!"
+   },
+   "sec1_search_button": {
+      "message": "Išči"
+   },
+   "sec1_search_placeholder": {
+      "message": "Iskanje po 500px"
+   },
+   "sec1_search_title": {
+      "message": "Iz 500px!"
+   },
+   "sec1_text": {
+      "message": "Začnite tako, da dodate svoje slike z uporabo enega od priročnih vnosnih polj spodaj!"
+   },
+   "sec1_upload_button": {
+      "message": "Naloži"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Naloži sliko iz svojega računalnika"
+   },
+   "sec1_upload_title": {
+      "message": "Iz vašega računalnika!"
+   },
+   "sec1_url_button": {
+      "message": "Shrani"
+   },
+   "sec1_url_placeholder": {
+      "message": "Prilepi URL Slike"
+   },
+   "sec1_url_title": {
+      "message": "Iz spleta!"
+   },
+   "sec2_heading": {
+      "message": "2. Izberi Svoje Slike!"
+   },
+   "sec2_none": {
+      "message": "Brez Ozadja"
+   },
+   "sec2_rand": {
+      "message": "Slike po naključju"
+   },
+   "sec2_text": {
+      "message": "Kliknite na sliko, ki jo želite uporabiti za ozadje, ali pa označite \"Po naključju\" za naključno izbiro ene izmed njih."
+   },
+   "sec3_heading": {
+      "message": "3. Prilagodi Po Meri!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Skrij Doodle Ikono"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Skrij Nogo Brskalnika"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Skrij Google+"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Skrij Jezike"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Skrij Google Logo"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "Skrij \"Klik na srečo\" Gumb"
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Skrij Promocije"
+   },
+   "sec3_label_hide_search": {
+      "message": "Skrij \"Iskanje Google\" Gumb"
+   },
+   "sec3_label_img_pos": {
+      "message": "Pozicija Slike"
+   },
+   "sec3_label_img_scale": {
+      "message": "Razmerje Slike"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Stealth Način"
+   },
+   "sec3_text": {
+      "message": "Veliko lahko naredite, da prilagodite svojo Google domačo stran. Samo izberite svoje možnosti nastavitev in uživajte!"
+   },
+   "sec4_donate": {
+      "message": "Doniraj (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Delite Ljubezen!"
+   },
+   "sec4_rate": {
+      "message": "Oceni Razširitev"
+   },
+   "sec4_text": {
+      "message": "Ni razloga za sramežljivost! Če vam je to všeč tako kot je nam, naj svet izve!"
+   },
+   "sec4_text2": {
+      "message": "Prosim podpirajte moje projekte z oceno ali doniranjem."
+   },
+   "sec5_heading": {
+      "message": "Zadnje Novosti"
+   },
+   "show_doodle": {
+      "message": "Pokaži Doodle"
+   }
+}

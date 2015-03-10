@@ -1,0 +1,125 @@
+{
+   "extDescription": {
+      "message": "Bu küçük uzantı ile Google™ ana sayfası arka planını özelleştirin."
+   },
+   "extName": {
+      "message": "Özel Google™ Arka Planı"
+   },
+   "long_description": {
+      "message": "Google™ 'ın sıkıcı beyaz zemininden bıktınız mı?  Bu uzantı Google™ arka planı için herhangi bir resim seçmenize izin verir.  Basitçe bir resim yükleyerek, URL girerek ya da 500px sitesinde arayarak.  Google™ tekrar kişisel olsun!"
+   },
+   "no_data": {
+      "message": "Bu uzantı kullanıcı bilgilerini toplamaz."
+   },
+   "options_link": {
+      "message": "Arka plan resmini değiştirin"
+   },
+   "options_title": {
+      "message": "Özel Google™ Arka Planı Seçenekleri"
+   },
+   "sec1_heading": {
+      "message": "1. Resmini Ekle!"
+   },
+   "sec1_search_button": {
+      "message": "Ara"
+   },
+   "sec1_search_placeholder": {
+      "message": "500px sitesinde ara"
+   },
+   "sec1_search_title": {
+      "message": "500px Sitesinden!"
+   },
+   "sec1_text": {
+      "message": "Aşağıdaki giriş alanlarından birini kullanarak resimlerinizi eklemeye başlayın!"
+   },
+   "sec1_upload_button": {
+      "message": "Yükle"
+   },
+   "sec1_upload_placeholder": {
+      "message": "Bilgisayarından resim yükle"
+   },
+   "sec1_upload_title": {
+      "message": "Bilgisayarından!"
+   },
+   "sec1_url_button": {
+      "message": "Kaydet"
+   },
+   "sec1_url_placeholder": {
+      "message": "Resim URL'sini yapıştırın"
+   },
+   "sec1_url_title": {
+      "message": "İnternetten!"
+   },
+   "sec2_heading": {
+      "message": "2. Resmini Seç!"
+   },
+   "sec2_none": {
+      "message": "Arka Plan Yok"
+   },
+   "sec2_rand": {
+      "message": "Rastgele Resim"
+   },
+   "sec2_text": {
+      "message": "Arka plan olarak kullanmak istediğiniz resmin üzerine tıklayın ya da rastgele ekrana gelmesi için \"Rastgele Resim\" seçeneğini seçin ."
+   },
+   "sec3_heading": {
+      "message": "3. Kişiselleştirin!"
+   },
+   "sec3_label_hide_doodle": {
+      "message": "Doodle Simgesini Gizle"
+   },
+   "sec3_label_hide_footer": {
+      "message": "Altbilgiyi Gizle"
+   },
+   "sec3_label_hide_gplus": {
+      "message": "Google+ Gizle"
+   },
+   "sec3_label_hide_lang": {
+      "message": "Dilleri Gizle"
+   },
+   "sec3_label_hide_logo": {
+      "message": "Google Logosunu Gizle"
+   },
+   "sec3_label_hide_lucky": {
+      "message": "\"Şans\" Düğmesini Gizle"
+   },
+   "sec3_label_hide_promotion": {
+      "message": "Tanıtımları Gizle"
+   },
+   "sec3_label_hide_search": {
+      "message": "\"Ara\" Düğmesini Gizle"
+   },
+   "sec3_label_img_pos": {
+      "message": "Resim Pozisyonu"
+   },
+   "sec3_label_img_scale": {
+      "message": "Resim Ölçeği"
+   },
+   "sec3_label_stealth_stealth": {
+      "message": "Gizlilik Modu"
+   },
+   "sec3_text": {
+      "message": "Buradakilerle Google™ ana sayfasını özelleştirebilirsiniz. Sadece seçeneklerden seçin ve eğlenin!"
+   },
+   "sec4_donate": {
+      "message": "Bağış Yap (PayPal)"
+   },
+   "sec4_heading": {
+      "message": "4. Sevgini Paylaş!"
+   },
+   "sec4_rate": {
+      "message": "Uzantıyı Derecelendir"
+   },
+   "sec4_text": {
+      "message": "Utangaç olmaya gerek yok! Eğer bizi bu kadar çok seviyorsanız, dünyayı bilgilendirin!"
+   },
+   "sec4_text2": {
+      "message": "Lütfen projeme derecelendirme veya bağış yaparak destek verin."
+   },
+   "sec5_heading": {
+      "message": "Son Haberler"
+   },
+   "show_doodle": {
+      "message": "Doodle Göster"
+   }
+}
