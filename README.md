@@ -1,3 +1,6 @@
+#Need to fix
+file names of pictures should be in english letters
+
 # MoeGoogleBackground
 A chrome extension to beautify google search page (including)
 
