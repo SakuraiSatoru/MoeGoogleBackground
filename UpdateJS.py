@@ -18,7 +18,9 @@ arr = []
 for parent,dirnames,filenames in os.walk(imgdir):
     for filename in filenames:
         if filename != "Transparent_google_logo.png":
-            arr.append(filename)
+             if filename[-3:] == "jpg" or filename[-3:] == "png":
+                  print filename
+                  arr.append(filename)
 
 for a in arr:
     print a
