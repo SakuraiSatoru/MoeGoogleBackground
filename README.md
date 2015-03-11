@@ -14,8 +14,8 @@ delete the ugly "most visited" part of new tab
 #How to add pictures
 (may be a little inconvenient for the cost of localization)
 
-1.copy your pictures into the "images" folder *Attention filename should not contain strange strings! English filename is recommended
+1.copy your pictures into the "images" folder
 
-2.run "UpdateJS.py" in the root folder
+2.run "UpdateJS.py" in the root folder and the picture names will be formatted in case of javascript exception
 
 3.reload the extension in "chrome://extensions/"
