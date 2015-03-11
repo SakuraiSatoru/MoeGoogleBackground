@@ -29,7 +29,7 @@ function refreshOptions() {
 	if (opts) return;
 	
 	var options = {
-		images:[chrome.extension.getURL('images/default.jpg')],
+		images:[chrome.extension.getURL('images/1.png')],
 		extra:{background_size:'cover',background_position:'center'}
 		};
 		
