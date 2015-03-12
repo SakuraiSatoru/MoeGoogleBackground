@@ -10,42 +10,43 @@ def cur_file_dir():
      elif os.path.isfile(path):
          return os.path.dirname(path)
 
-             
-
-
 
 rootdir = cur_file_dir()
 imgdir = cur_file_dir()+"\images"
 arr0 = []
-#arr = []
+
+
+
+def rename(filename):
+     arr = []
+     i=1
+     while True:
+          if os.path.isfile(imgdir+"\\"+str(i)+".jpg"):
+               arr.append(str(i)+".jpg")
+               i = i+1
+          elif os.path.isfile(imgdir+"\\"+str(i)+".png"):
+               arr.append(str(i)+".png")
+               i = i+1
+          elif os.path.isfile(imgdir+"\\"+str(i)+".bmp"):
+               arr.append(str(i)+".bmp")
+               i = i+1
+          else:
+               break
+     
+     if not filename in arr:
+          os.rename(imgdir+"\\"+filename,imgdir+"\\"+str(i)+filename[-4:])
+          arr0.append(str(i)+filename[-4:])
+     else:
+          arr0.append(filename)  
+
 
 i=1
-while True:
-     if os.path.isfile(imgdir+"\\"+str(i)+".jpg"):
-          arr0.append(str(i)+".jpg")
-          i = i+1
-     elif os.path.isfile(imgdir+"\\"+str(i)+".png"):
-          arr0.append(str(i)+".png")
-          i = i+1
-     elif os.path.isfile(imgdir+"\\"+str(i)+".bmp"):
-          arr0.append(str(i)+".bmp")
-          i = i+1
-     else:
-          break
-
-
-
-
-
 for parent,dirnames,filenames in os.walk(imgdir):
-    for filename in filenames:
-        if filename != "Transparent_google_logo.png":
-             if (filename[-3:] == "jpg" or filename[-3:] == "png" or filename[-3:] == "bmp") and (not filename in arr0):
-                  os.rename(imgdir+"\\"+filename,imgdir+"\\"+str(i)+filename[-4:])
-                  print str(i)+filename[-4:]
-                  arr0.append(str(i)+filename[-4:])
-                  i += 1
-
+     for filename in filenames:
+          if filename != "Transparent_google_logo.png":
+               if filename[-3:] == "jpg" or filename[-3:] == "png" or filename[-3:] == "bmp":
+                    rename(filename)
+                    i=i+1
 
 
 fileObject = open('content\google.js')
