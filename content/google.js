@@ -4,7 +4,19 @@ var opts = null,
 	head = null;
 
 
-
+var ddl = document.createElement('div');
+ddl.id = 'cgb_ddl';
+ddl.style.display = 'none';
+ddl.style.background = 'url('+chrome.extension.getURL('images/show-doodle.png')+') no-repeat center center';
+ddl.style.width = '25px';
+ddl.style.height = '25px';
+ddl.style.position = 'fixed';
+ddl.style.bottom = '5px';
+ddl.style.left = '5px';
+ddl.style.cursor = 'pointer';
+ddl.style.zIndex = 1000;
+ddl.title = chrome.i18n.getMessage('show_doodle');
+ddl.onclick = RestoreStyles;
 
 var newlogo = document.createElement('img');
 newlogo.id = 'cgb_newlogo';
@@ -29,7 +41,7 @@ function refreshOptions() {
 	if (opts) return;
 	
 	var options = {
-		images:[chrome.extension.getURL('images/1.png')],
+		images:[chrome.extension.getURL('images/1.jpg'),chrome.extension.getURL('images/8.jpg'),chrome.extension.getURL('images/10.png'),chrome.extension.getURL('images/11.png'),chrome.extension.getURL('images/12.jpg'),chrome.extension.getURL('images/13.jpg'),chrome.extension.getURL('images/14.jpg'),chrome.extension.getURL('images/15.png'),chrome.extension.getURL('images/16.png'),chrome.extension.getURL('images/17.jpg'),chrome.extension.getURL('images/18.jpg'),chrome.extension.getURL('images/2.jpg'),chrome.extension.getURL('images/19.jpg'),chrome.extension.getURL('images/3.jpg'),chrome.extension.getURL('images/4.jpg'),chrome.extension.getURL('images/5.jpg'),chrome.extension.getURL('images/6.jpg'),chrome.extension.getURL('images/7.jpg'),chrome.extension.getURL('images/9.jpg')],
 		extra:{background_size:'cover',background_position:'center'}
 		};
 		
@@ -162,8 +174,8 @@ function refreshImage() {
 			if ((!document.getElementById('hplogo') || document.getElementById('hplogo').title.substr(0,6) !== 'Google') &&
 				(!document.getElementById('hplogo').alt || document.getElementById('hplogo').alt.substr(0,6) !== 'Google')) { // is this logo a google doodle?
 				SetStyles(newlogo,{paddingTop:'112px'}); // doodles are slightly larger, so push the logo down
-				if (!document.getElementById('cgb_ddl')) body.appendChild(ddl);
-				if (!opts.extra.hide_doodle) SetStyles(ddl,{'display':'block'});
+				//if (!document.getElementById('cgb_ddl')) body.appendChild(ddl);
+				//if (!opts.extra.hide_doodle) SetStyles(ddl,{'display':'block'});
 			}
 
 
