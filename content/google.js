@@ -4,19 +4,7 @@ var opts = null,
 	head = null;
 
 
-var ddl = document.createElement('div');
-ddl.id = 'cgb_ddl';
-ddl.style.display = 'none';
-ddl.style.background = 'url('+chrome.extension.getURL('images/show-doodle.png')+') no-repeat center center';
-ddl.style.width = '25px';
-ddl.style.height = '25px';
-ddl.style.position = 'fixed';
-ddl.style.bottom = '5px';
-ddl.style.left = '5px';
-ddl.style.cursor = 'pointer';
-ddl.style.zIndex = 1000;
-ddl.title = chrome.i18n.getMessage('show_doodle');
-ddl.onclick = RestoreStyles;
+
 
 var newlogo = document.createElement('img');
 newlogo.id = 'cgb_newlogo';
@@ -41,7 +29,7 @@ function refreshOptions() {
 	if (opts) return;
 	
 	var options = {
-		images:[chrome.extension.getURL('images/1.jpg'),chrome.extension.getURL('images/8.jpg'),chrome.extension.getURL('images/10.png'),chrome.extension.getURL('images/11.png'),chrome.extension.getURL('images/12.jpg'),chrome.extension.getURL('images/13.jpg'),chrome.extension.getURL('images/14.jpg'),chrome.extension.getURL('images/15.png'),chrome.extension.getURL('images/16.png'),chrome.extension.getURL('images/17.jpg'),chrome.extension.getURL('images/18.jpg'),chrome.extension.getURL('images/2.jpg'),chrome.extension.getURL('images/19.jpg'),chrome.extension.getURL('images/3.jpg'),chrome.extension.getURL('images/4.jpg'),chrome.extension.getURL('images/5.jpg'),chrome.extension.getURL('images/6.jpg'),chrome.extension.getURL('images/7.jpg'),chrome.extension.getURL('images/9.jpg')],
+		images:[chrome.extension.getURL('images/1.jpg'),chrome.extension.getURL('images/2.jpg')],
 		extra:{background_size:'cover',background_position:'center'}
 		};
 		
@@ -81,6 +69,7 @@ function refreshOptions() {
 		addStyle('#mngb a[title][href] {'+textHL+'}');  // catchall
 
 		addStyle('#prm{visibility:hidden}');
+		addStyle('#logo-sub{visibility:hidden}');
 
 		
 		makeVisible() // janakan;
@@ -153,7 +142,7 @@ function refreshImage() {
 				SetStyles(document.getElementById('lga'),{visibility:'hidden'});
 			} else if (bg) {
 				// rename #lga to stop new tab page from re-applying a new logo
-				//if (document.getElementById('lga')) document.getElementById('lga').id = 'lga_rename'; // NEW COMMENT
+				if (document.getElementById('lga')) document.getElementById('lga').id = 'lga_rename'; // NEW COMMENT
 				
 				var tohide = document.getElementById('hplogo'),
 					nudgePadding = tohide.style.paddingTop,
@@ -191,7 +180,8 @@ function refreshImage() {
 try{
     var child=document.getElementById("most-visited");
 	child.parentNode.removeChild(child);
+	
 }catch(e){
-    console.log(e.name  +   " :  "   +  e.message);
+    console.log("not a ntp");
 } 
-var refreshInterval = setInterval(refreshImage,500);
+var refreshInterval = setInterval(refreshImage,300);
